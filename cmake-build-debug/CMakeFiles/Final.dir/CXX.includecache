@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.cpp
+bankAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.h
+
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.h
+iostream
+-
+
+/Users/OledibeFrancis/CLionProjects/Final/checkingAccount.cpp
+checkingAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/checkingAccount.h
+
+/Users/OledibeFrancis/CLionProjects/Final/checkingAccount.h
+bankAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.h
+
+/Users/OledibeFrancis/CLionProjects/Final/main.cpp
+iostream
+-
+checkingAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/checkingAccount.h
+savingsAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/savingsAccount.h
+bankAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.h
+
+/Users/OledibeFrancis/CLionProjects/Final/savingsAccount.cpp
+savingsAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/savingsAccount.h
+
+/Users/OledibeFrancis/CLionProjects/Final/savingsAccount.h
+bankAccount.h
+/Users/OledibeFrancis/CLionProjects/Final/bankAccount.h
+
